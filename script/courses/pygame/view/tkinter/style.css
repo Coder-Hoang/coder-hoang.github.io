@@ -1,0 +1,206 @@
+body {
+    background-color: #CCFFCC;
+}
+
+.header {
+    background-color: #FF7979;
+    width: 100%;
+    height: 75px;
+    margin-top: 0px;
+}
+
+.ch-website-header {
+    position: absolute;
+    color: #0094D4;
+    top: 0px;
+    left: 20px;
+    font-size: 40px;
+}
+
+.python-bg-courses-div {
+    background-color: #FFDCAE;
+    border-radius: 30px;
+}
+
+.python-bgn-courses {
+    text-align: center;
+    color: #006666;
+}
+
+.description {
+    max-width: 50%;
+    margin-left: 25%;
+    color: #006666;
+}
+
+.whatll-learn {
+    text-align: center;
+    margin-top: 75px;
+    color: #990000;
+}
+
+.learn {
+    text-align: center;
+    margin-top: 10px;
+    color: #990000;
+    font-size: 20px;
+}
+
+.pricing {
+    background-color: #69BFBC;
+    border-radius: 30px;
+    margin-top: 75px;
+}
+
+.name {
+    text-align: center;
+    color: #FFCACA;
+}
+
+.price {
+    text-align: center;
+    color: #FFCACA;
+}
+
+.img {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+.buy {
+    font-size: 30px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+    background-color: #69BF80;
+    color: #000746;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes pop-effect {
+    from { transform: scale(5); }  /* Start at normal size */
+    to { transform: scale(5); }  /* Briefly scale up to 110% */
+  }
+
+.div-1{
+    margin-top: 200px;
+    background-color: #BF9969;
+    border-radius: 30px;
+}
+
+.part-1 {
+    color: #009900;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p1-chapter {
+    color: #009900;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div-2{
+    margin-top: 40px;
+    background-color: #99CCFF;
+    border-radius: 30px;
+}
+
+.part-2 {
+    color: #7F00FF;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p2-chapter {
+    color: #009900;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div-3{
+    margin-top: 40px;
+    background-color: #C0C0C0;
+    border-radius: 30px;
+}
+
+.part-3 {
+    color: #FF00CC;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p3-chapter {
+    color: #FF00CC;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div-4{
+    margin-top: 40px;
+    background-color: #00FFFF;
+    border-radius: 30px;
+}
+
+.part-4 {
+    color: #00CC66;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p4-chapter {
+    color: #00CC66;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div-5{
+    margin-top: 40px;
+    background-color: #FFFFCC;
+    border-radius: 30px;
+}
+
+.part-5 {
+    color: #FFCCFF;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p5-chapter {
+    color: #FFCCFF;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div-6{
+    margin-top: 40px;
+    background-color: #000000;
+    border-radius: 30px;
+}
+
+.part-6 {
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.p6-chapter {
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.already {
+    text-align: center;
+    color: #009900;
+    font-size: 25px;
+}

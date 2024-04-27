@@ -1,0 +1,245 @@
+body {
+    background-color: #CCFFCC;
+}
+
+.header {
+    background-color: #FF7979;
+    width: 100%;
+    height: 75px;
+    margin-top: 0px;
+}
+
+.ch-website-header {
+    position: absolute;
+    color: #0094D4;
+    top: 0px;
+    left: 20px;
+    font-size: 40px;
+}
+
+/* quick access */
+
+.quick-access-div {
+    background-color: #74A12E;
+    width: 49%;
+    float: left;
+    margin-top: 30px;
+    height: 320px;
+}
+
+.quick-access {
+    color: #91DFFF;
+    margin-left: 10px;
+}
+
+.discord {
+    background-color: #FF0000;
+    color: #91DFFF;
+    margin-left: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.youtube {
+    background-color: #FF0000;
+    color: #91DFFF;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.github {
+    background-color: #FF0000;
+    color: #91DFFF;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.itch {
+    background-color: #FF0000;
+    color: #91DFFF;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+/* what's new */
+
+.what-new-div {
+    background-color: #74A12E;
+    width: 49%;
+    float: right;
+    margin-top: 30px;
+    height: 320px;
+}
+
+.what-new {
+    color: #91DFFF;
+    margin-left: 10px;
+}
+
+.new-color {
+    color:#009152;
+    margin-left: 10px;
+}
+
+.wn-and-quick-access {
+    color: #009152;
+    margin-left: 10px;
+}
+
+.bevy-pygame-build-in {
+    color: #009152;
+    margin-left: 10px;
+}
+
+.cheatsheet-removal {
+    color: #009152;
+    margin-left: 10px;
+}
+
+/* pygame website */
+.pygame-build-in-website {
+    background-color:#FFAC4D;
+    width: 100%;
+    margin-top: 380px;
+    border-radius: 20px;
+}
+
+.pygame-website {
+    color:#D5FF00;
+    margin-left: 10px;
+}
+
+.pygame-website-access {
+    background-color: #FF0000;
+    color: #91DFFF;
+    font-size: 25px;
+    margin-left: 2%;
+    border-radius: 19px;
+    width: 96%;
+    cursor: pointer;
+}
+
+.courses-button {
+    background-color: #FF0000;
+    color: #91DFFF;
+    font-size: 25px;
+    margin-left: 2%;
+    border-radius: 19px;
+    width: 96%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.pygame-project {
+    font-size: 40px;
+    font-family: 'Algerian';
+    color: #49734C;
+    margin-left: 20px;
+}
+
+/* bevy website */
+.bevy-build-in-website {
+    background-color:#7394FF;
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.bevy-website {
+    color:#002292;
+    margin-left: 10px;
+}
+
+.bevy-website-access {
+    background-color: #FF0000;
+    color: #91DFFF;
+    font-size: 25px;
+    margin-left: 2%;
+    border-radius: 19px;
+    width: 96%;
+    cursor: pointer;
+}
+
+.macroquad-website-access {
+    background-color: #FF0000;
+    color: #91DFFF;
+    font-size: 25px;
+    margin-left: 2%;
+    border-radius: 19px;
+    width: 96%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.courses-button {
+    background-color: #FF0000;
+    color: #91DFFF;
+    font-size: 25px;
+    margin-left: 2%;
+    border-radius: 19px;
+    width: 96%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.bevy-project {
+    font-size: 40px;
+    font-family: 'Algerian';
+    color: #49734C;
+    margin-left: 20px;
+}
+
+.demo-game {
+    background-color: #74A12E;
+    border-radius: 10px;
+}
+
+.mail-hvntv {
+    width: 30%;
+    margin-top: 70px;
+    margin-left: 35%;
+}
+
+.play-web {
+    color: wheat;
+    text-align: center;
+    font-family: 'Times New Roman';
+    margin-top: 20px;
+}
+
+.web-name {
+    color: wheat;
+    text-align: center;
+    font-family:'Times';
+    margin-top: 5px;
+}
+
+.footer {
+    background-color: #CCCCFF;
+    margin-top: 200px;
+}
+
+.footer-element {
+    margin-left: 20px;
+    color: red;
+}
+
+.version {
+    margin-left: 20px;
+    color: #74A12E;
+}
+
+.last-update {
+    margin-left: 20px;
+    color: #74A12E;
+}
