@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Coder Hoang Pygame Courses</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header"></div>
+    <h1 class="ch-website-header">The Coder Hoang Offisial Website (Pygame Courses)</h1>
+
+    <input type="text" name="promo" id="promo" placeholder="Promo Code" maxlength="20">
+
+    <br>
+
+    <button class="enter">Enter</button>
+    <button class="dont-have">I don't have a promo code</button>
+
+    <script>
+        const promoInput = document.getElementById('promo');
+        const enterButton = document.querySelector('.enter');
+        const donthaveButton = document.querySelector('.dont-have');
+
+        enterButton.addEventListener('click', function() {
+        const promoCode = promoInput.value;
+        if (promoCode === 'CHPromo1810!@#$%^&*(') {
+            // Remove input and button elements
+            promoInput.remove();
+            enterButton.remove();
+            donthaveButton.remove();
+            window.location.href = "index.html";
+
+            // Create a new element for the triangle (assuming CSS is set up)
+            const triangle = document.createElement('div');
+            triangle.classList.add('triangle'); // Add a CSS class for styling
+            document.body.appendChild(triangle);
+        } else {
+            alert('Invalid Promo Code, if you don\'t have a promo code, please click I don\'t have a promo code');
+        }
+        });
+
+    </script>
+
+    <script src="script.js"></script>
+</body>
+</html>

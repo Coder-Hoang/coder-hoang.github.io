@@ -1,0 +1,88 @@
+body {
+    background-color: #CCFFCC;
+}
+
+.header {
+    background-color: #FF7979;
+    width: 100%;
+    height: 75px;
+    margin-top: 0px;
+}
+
+.ch-website-header {
+    position: absolute;
+    color: #0094D4;
+    top: 0px;
+    left: 20px;
+    font-size: 40px;
+}
+
+.color-div {
+    background-color: antiquewhite;
+}
+
+.color-course {
+    text-align: center;
+}
+
+.color-code-p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.biginner-python-courses {
+    background-color: #CCFFFF;
+    border-radius: 20px;
+}
+
+.biggin-python-title { 
+    color: #00FF3C;
+    text-align: center;
+}
+
+.python-bgn-price {
+    color: #00FF3C;
+    text-align: center;
+}
+
+.bigginner-python-classes {
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+}
+
+.python-courses-p {
+    max-width: 80%;
+    margin-left: 10%;
+    font-size: 25px;
+}
+
+.python-courses-button {
+    width: 98%;
+    margin-left: 1%;
+    margin-top: 30px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: beige;
+    border-radius: 15px;
+}
+
+.inter-python-title { 
+    color: blue;
+    text-align: center;
+}
+
+.python-inter-price {
+    color: blue;
+    text-align: center;
+}
+
+.ad-python-title { 
+    color: red;
+    text-align: center;
+}
+
+.python-ad-price {
+    color: red;
+    text-align: center;
+}
